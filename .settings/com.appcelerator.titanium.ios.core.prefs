@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=P4
+iosLaunchConfigurationAttributes/appid=com.fullsail.demoApp
+iosLaunchConfigurationAttributes/certificate=Jennifer McCarrick (VET4496F2Z)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=7.1
+iosLaunchConfigurationAttributes/uuid=E02EB386-FDC8-44FC-A347-B8392F8DFB42
+provisioning_profiles/development/E02EB386-FDC8-44FC-A347-B8392F8DFB42/appid=com.fullsail.demoApp
+provisioning_profiles/development/E02EB386-FDC8-44FC-A347-B8392F8DFB42/name=demoApp
+provisioning_profiles/development/E02EB386-FDC8-44FC-A347-B8392F8DFB42/uuid=E02EB386-FDC8-44FC-A347-B8392F8DFB42
