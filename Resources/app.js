@@ -29,7 +29,7 @@ var MapModule = require("ti.map");
 // create base UI tab and root window
 //
 var win1 = Titanium.UI.createWindow({  
-    title:'Tab 1',
+    title:'Your Current Location!',
     backgroundColor:"#434A7F",
     layout: "vertical"
 });

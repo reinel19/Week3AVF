@@ -44,7 +44,7 @@ var remoteResponse = function() {
 
 
     	var dataView = Ti.UI.createView({
-			backgroundColor: "#999",
+			backgroundColor: "#E86E0C",
 			top: 10,
 			width: 250,
 			height: 50
@@ -52,7 +52,7 @@ var remoteResponse = function() {
 });
 
     	var dataView1 = Ti.UI.createView({
-			backgroundColor: "#999",
+			backgroundColor: "#E86E0C",
 			top: 10,
 			width: 250,
 			height: 50
@@ -105,7 +105,7 @@ var remoteResponse = function() {
     	
 var takePicBtn = Ti.UI.createButton({
 	title : 'Camera',
-	backgroundColor: "#999",
+	backgroundColor: "#FFCE0D",
 	top: 10,
 	width: 250,
 	height: 50
